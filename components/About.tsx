@@ -47,12 +47,18 @@ export default function About({ }: Props) {
                 </h4>
             </div>
             <p className='text-base'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum. Molestie nunc non blandit massa enim.
-                Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Tellus orci ac auctor augue mauris augue neque. Lobortis elementum nibh tellus molestie nunc non blandit.
-                Ut diam quam nulla porttitor massa id neque aliquam. Mattis pellentesque id nibh tortor id aliquet lectus proin. Pulvinar pellentesque habitant morbi tristique senectus et netus. Vel facilisis volutpat
-                est velit egestas dui id ornare. Id faucibus nisl tincidunt eget. Non tellus orci ac auctor augue. Non tellus orci ac auctor augue. Pretium aenean pharetra magna ac placerat vestibulum lectus. Donec pretium
-                vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Et ultrices neque ornare aenean euismod elementum nisi quis eleifend. Dui ut ornare lectus sit amet est placerat. Cursus vitae congue mauris rhoncus.
-                In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Mauris vitae ultricies leo integer.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
+					odio perferendis repellat accusamus, aspernatur voluptas qui natus rem
+					maxime quos eveniet suscipit? Quidem neque a voluptas vitae quo modi
+					mollitia expedita nesciunt, magni ad, laudantium in voluptate facere
+					itaque explicabo quia quae libero officiis ab soluta tempora autem?
+					Hic rerum quas ea nobis dolore quam corrupti eveniet, dolorem quia
+					veniam blanditiis et repellat molestias quisquam quod ipsam incidunt
+					quibusdam fugiat provident. Officia nemo dignissimos, architecto alias
+					quisquam quis inventore itaque natus vitae ducimus, saepe et fugit
+					impedit explicabo, aliquam similique magnam obcaecati repellat
+					exercitationem animi libero quibusdam reprehenderit. Dolorum,
+					possimus.
             </p>
         </motion.div>
     )
