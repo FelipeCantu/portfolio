@@ -54,11 +54,7 @@ export default function About({ }: Props) {
 					itaque explicabo quia quae libero officiis ab soluta tempora autem?
 					Hic rerum quas ea nobis dolore quam corrupti eveniet, dolorem quia
 					veniam blanditiis et repellat molestias quisquam quod ipsam incidunt
-					quibusdam fugiat provident. Officia nemo dignissimos, architecto alias
-					quisquam quis inventore itaque natus vitae ducimus, saepe et fugit
-					impedit explicabo, aliquam similique magnam obcaecati repellat
-					exercitationem animi libero quibusdam reprehenderit. Dolorum,
-					possimus.
+					quibusdam fugiat provident.
             </p>
         </motion.div>
     )
