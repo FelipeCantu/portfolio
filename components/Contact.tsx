@@ -19,6 +19,7 @@ function Contact({ }: Props) {
     const onSubmit: SubmitHandler<Inputs> = (formData) => {
         window.location.href = `mailto:cantujr.felipe@gmail?subject=${formData.subject}&body=Hi, my name is ${formData.name}. ${formData.message}
         (${formData.email})`
+        console.log(formData)
     }
     return (
         <div className='h-screen flex relative flex-col text-center md:text-left md:flex-row max-w-7xl px-10
